@@ -1,6 +1,8 @@
 <div align="center">
 
-# Halo, saya Raihan Tririzqi Wibowo 👋
+![Animated header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Raihan%20Tririzqi%20Wibowo&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=58&animation=fadeIn)
+
+### Halo! Selamat datang di profil GitHub saya 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Learning%2C+building%2C+and+growing;Turning+ideas+into+useful+projects)](https://git.io/typing-svg)
 
@@ -70,5 +72,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-raihantririzqiwibowo-181717?style=for-the-badge&logo=github)](https://github.com/raihantririzqiwibowo)
 
 <sub>Terima kasih sudah berkunjung. Jangan ragu melihat-lihat repository saya! ✨</sub>
+
+<br><br>
+
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn)
 
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-![Animated header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Raihan%20Tri%20Rizqi%20Wibowo&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20Software%20Engineer%20%26%20Architect&descSize=18&descAlignY=58&animation=fadeIn)
+![Animated header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Raihan%20Tri%20Rizqi%20Wibowo&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20Software%20Engineer%20and%20Architect&descSize=18&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&width=700&lines=Next.js+%26+Go+Specialist;Building+reliable+full-stack+systems;Turning+complex+problems+into+simple+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&width=700&lines=Next.js+and+Go+Specialist;Building+reliable+full-stack+systems;Turning+complex+problems+into+simple+solutions)](https://git.io/typing-svg)
 
 <p>
   Informatics Engineering undergraduate at <b>Institut Teknologi Sumatera</b><br>
@@ -85,25 +85,25 @@ currently_building: ISP Billing & Warehouse Management Systems
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165" alt="Raihan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&show_icons=true&hide_border=true&rank_icon=github" />
+    <img height="165" alt="Raihan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&layout=compact&theme=github_dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;theme=default&amp;hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165" alt="Raihan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&layout=compact&hide_border=true" />
+    <img height="165" alt="Raihan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;hide_border=true" />
   </picture>
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=raihantririzqiwibowo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)

@@ -112,6 +112,20 @@ currently_building: ISP Billing & Warehouse Management Systems
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation generated from Raihan's GitHub contributions" src="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Automatically regenerated every day from my GitHub contribution graph.</sub>
+
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">

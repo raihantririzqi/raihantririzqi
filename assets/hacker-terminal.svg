@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Animated hacker terminal</title>
+  <desc id="desc">A green computer terminal showing Raihan's developer profile.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020604" />
+      <stop offset="0.55" stop-color="#06140d" />
+      <stop offset="1" stop-color="#020604" />
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39ff88" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#39ff88" stop-opacity="0.15" />
+      <stop offset="1" stop-color="#39ff88" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#20c968" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="terminal-clip">
+      <rect x="40" y="62" width="820" height="205" rx="3" />
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="300" rx="18" fill="url(#background)" />
+  <rect width="900" height="300" rx="18" fill="url(#grid)" />
+  <rect x="1" y="1" width="898" height="298" rx="17" fill="none" stroke="#2eff80" stroke-opacity="0.65" stroke-width="2" />
+
+  <g opacity="0.11" fill="#39ff88" font-family="monospace" font-size="14">
+    <text x="20" y="-15">01001101 10110100 00101101 10100110 01101001
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 340" dur="7s" repeatCount="indefinite" />
+    </text>
+    <text x="570" y="-100">11010010 01101001 00110101
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 430" dur="9s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <rect x="24" y="22" width="852" height="256" rx="10" fill="#030806" fill-opacity="0.92" stroke="#1a6b3d" />
+  <path d="M24 52H876" stroke="#1a6b3d" />
+  <circle cx="45" cy="37" r="5" fill="#ff5f57" />
+  <circle cx="63" cy="37" r="5" fill="#febc2e" />
+  <circle cx="81" cy="37" r="5" fill="#28c840" />
+  <text x="450" y="42" text-anchor="middle" fill="#76e6a6" font-family="monospace" font-size="12">raihan@github — secure shell</text>
+
+  <g clip-path="url(#terminal-clip)" font-family="'Courier New', monospace" font-size="16">
+    <text x="48" y="86" fill="#39ff88" filter="url(#glow)">raihan@github:~$ whoami</text>
+
+    <text x="48" y="113" fill="#c8ffe0" opacity="0">Raihan Tri Rizqi Wibowo
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1;0.13;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="48" y="142" fill="#39ff88" opacity="0">raihan@github:~$ cat stack.txt
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.27;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="48" y="169" fill="#c8ffe0" opacity="0">[ Next.js ] [ Go ] [ Flutter ] [ Docker ] [ Linux ]
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38;0.41;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="48" y="198" fill="#39ff88" opacity="0">raihan@github:~$ systemctl status developer
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52;0.55;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="48" y="225" fill="#c8ffe0" opacity="0">● ACTIVE — building scalable systems...
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66;0.69;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="48" y="252" fill="#39ff88" opacity="0">raihan@github:~$ <tspan>█
+      <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" />
+    </tspan>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.78;0.81;1" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <rect x="40" y="55" width="820" height="18" fill="url(#scan)" opacity="0.9">
+      <animate attributeName="y" values="55;260;55" dur="4.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <text x="838" y="42" text-anchor="end" fill="#39ff88" font-family="monospace" font-size="10" filter="url(#glow)">ENCRYPTED
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite" />
+  </text>
+</svg>

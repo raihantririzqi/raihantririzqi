@@ -1,16 +1,18 @@
 <div align="center">
 
-![Animated header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Raihan%20Tri%20Rizqi%20Wibowo&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-stack%20Software%20Engineer%20and%20Architect&descSize=18&descAlignY=58&animation=fadeIn)
+![Animated header](https://capsule-render.vercel.app/api?type=waving&color=0:020604,50:0B3D20,100:20C968&height=230&section=header&text=Raihan%20Tri%20Rizqi%20Wibowo&fontSize=38&fontColor=E6FFEF&fontAlignY=38&desc=Full-stack%20Software%20Engineer%20and%20Architect&descSize=18&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&width=700&lines=Next.js+and+Go+Specialist;Building+reliable+full-stack+systems;Turning+complex+problems+into+simple+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=39FF88&center=true&vCenter=true&repeat=true&width=700&lines=%24+initializing+developer_profile...;%24+loading+Next.js+and+Go...;%24+status%3A+ready+to+build)](https://git.io/typing-svg)
+
+![Animated hacker terminal](./assets/hacker-terminal.svg)
 
 <p>
   Informatics Engineering undergraduate at <b>Institut Teknologi Sumatera</b><br>
   and Full-stack Developer at <b>PT. Tunas Link Indonesia</b>.
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raihantririzqiwibowo&label=Profile%20Views&color=2f81f7&style=flat)](https://github.com/raihantririzqiwibowo)
-[![Followers](https://img.shields.io/github/followers/raihantririzqiwibowo?label=Followers&style=flat&color=2f81f7)](https://github.com/raihantririzqiwibowo?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=raihantririzqiwibowo&label=Profile%20Views&color=20c968&style=flat)](https://github.com/raihantririzqiwibowo)
+[![Followers](https://img.shields.io/github/followers/raihantririzqiwibowo?label=Followers&style=flat&color=20c968)](https://github.com/raihantririzqiwibowo?tab=followers)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer-238636?style=flat)](https://github.com/raihantririzqiwibowo)
 
 </div>
@@ -120,6 +122,6 @@ currently_building: ISP Billing & Warehouse Management Systems
 
 <i>Let's build something useful together.</i> ✨
 
-![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn)
+![Animated footer](https://capsule-render.vercel.app/api?type=waving&color=0:20C968,50:0B3D20,100:020604&height=120&section=footer&animation=fadeIn)
 
 </div>

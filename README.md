@@ -85,30 +85,11 @@ currently_building: ISP Billing & Warehouse Management Systems
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" alt="Raihan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;theme=default&amp;hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" alt="Raihan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;hide_border=true" />
-  </picture>
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=raihantririzqi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img height="165" alt="Raihan's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihantririzqi&amp;theme=github_dark&amp;v=2" />
+<img height="165" alt="Raihan's most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihantririzqi&amp;theme=github_dark&amp;v=2" />
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=raihantririzqi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&v=2)
 
 </div>
 
@@ -117,9 +98,9 @@ currently_building: ISP Billing & Warehouse Management Systems
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation generated from Raihan's GitHub contributions" src="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="Snake animation generated from Raihan's GitHub contributions" src="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 <sub>Automatically regenerated every day from my GitHub contribution graph.</sub>

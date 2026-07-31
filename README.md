@@ -11,9 +11,9 @@
   and Full-stack Developer at <b>PT. Tunas Link Indonesia</b>.
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raihantririzqiwibowo&label=Profile%20Views&color=20c968&style=flat)](https://github.com/raihantririzqiwibowo)
-[![Followers](https://img.shields.io/github/followers/raihantririzqiwibowo?label=Followers&style=flat&color=20c968)](https://github.com/raihantririzqiwibowo?tab=followers)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer-238636?style=flat)](https://github.com/raihantririzqiwibowo)
+[![Profile Views](https://komarev.com/ghpvc/?username=raihantririzqi&label=Profile%20Views&color=20c968&style=flat)](https://github.com/raihantririzqi)
+[![Followers](https://img.shields.io/github/followers/raihantririzqi?label=Followers&style=flat&color=20c968)](https://github.com/raihantririzqi?tab=followers)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer-238636?style=flat)](https://github.com/raihantririzqi)
 
 </div>
 
@@ -87,28 +87,28 @@ currently_building: ISP Billing & Warehouse Management Systems
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165" alt="Raihan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=raihantririzqiwibowo&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" />
+    <img height="165" alt="Raihan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=raihantririzqi&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;theme=default&amp;hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;theme=default&amp;hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165" alt="Raihan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqiwibowo&amp;layout=compact&amp;hide_border=true" />
+    <img height="165" alt="Raihan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihantririzqi&amp;layout=compact&amp;hide_border=true" />
   </picture>
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=raihantririzqiwibowo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=raihantririzqi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -117,9 +117,9 @@ currently_building: ISP Billing & Warehouse Management Systems
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation generated from Raihan's GitHub contributions" src="https://raw.githubusercontent.com/raihantririzqiwibowo/raihantririzqiwibowo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation generated from Raihan's GitHub contributions" src="https://raw.githubusercontent.com/raihantririzqi/raihantririzqi/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <sub>Automatically regenerated every day from my GitHub contribution graph.</sub>
@@ -130,7 +130,7 @@ currently_building: ISP Billing & Warehouse Management Systems
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-raihantririzqiwibowo-181717?style=for-the-badge&logo=github)](https://github.com/raihantririzqiwibowo)
+[![GitHub](https://img.shields.io/badge/GitHub-raihantririzqi-181717?style=for-the-badge&logo=github)](https://github.com/raihantririzqi)
 
 <br>
 
